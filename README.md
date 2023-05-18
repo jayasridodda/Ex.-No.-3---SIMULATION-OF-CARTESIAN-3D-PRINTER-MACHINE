@@ -88,6 +88,24 @@ That mainly related to safety and protection of the printer's components. While 
 They are  essential components of a 3D printer that take care of the movements of the axes . You determine the power, temperature and operating volume of the 3D printer's motors
 
 ## COMPLETE ASSEMBLY:
+![Screenshot (4)](https://github.com/jayasridodda/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/123259278/6a9c7b97-0990-4421-a49f-37ce4861beef)
+
+## Frame:
+ it provides stability, structural support, and precision to the entire printing process
+## Y-axis assembly:
+ The Y-axis assembly is responsible for the movement of the print bed or build platform along the Y-axis direction, Y-axis assembly is a critical component that plays a significant role in the overall printing process.
+## Z-axis Assembly:
+ It is responsible for the vertical movement of the print head and the build platform. It plays a crucial role in the overall printing process
+## X-axis Assembly:
+It is responsible for the horizontal movement of the print head and determines the width or the X-axis dimension of the printed object.
+## SMPS:
+SMPS (Switched-Mode Power Supply) plays a vital role in providing power to various components of the 3D printer
+## LCD:
+LCD-based 3D printing acts as a light source and a pattern display medium. It enables the precise curing of the liquid resin layer by layer, facilitating the creation of complex 3D objects with high resolution and accuracy
+## Spool holder:
+spool holder in 3D printing is crucial for proper filament management, tension control, and smooth filament feeding. It supports the filament spool, guides the filament, and helps maintain a controlled and organized filament path.
+## Spool:
+spool refers to the cylindrical container that holds the filament, which is the material used for printing. The spool plays a crucial role in the 3D printing process
 
 
 
