@@ -48,7 +48,7 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-## X-axis Assembly:
+## X-AXIS ASSEMBLY:
 ![Screenshot (1)](https://github.com/jayasridodda/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/123259278/02121fa3-00b1-4481-99c7-18963a036b77)
 ## Smooth Rod:
 Smooth rods, also known as linear rods or guide rods, play an important role in 3D printing by providing stability, support, and smooth linear motion to various components of the printer.
@@ -61,7 +61,7 @@ the part of the 3D printer that ejects material in liquid or semi-liquid form in
 ## Motor:
 They are  essential components of a 3D printer that take care of the movements of the axes . You determine the power, temperature and operating volume of the 3D printer's motors.
 
-## Y-axis Assembly:
+## Y-AXIS ASSEMBLY:
 ![Screenshot (2)](https://github.com/jayasridodda/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/123259278/0d86a419-4ee8-40f3-8590-ac7056ee6f6c)
 ## Y-axis Supporter:
 The X axis on a 3D printer is usually the lateral movement left to right (or vice versa), while the Y axis on a printer represents movement forward and back.
@@ -78,7 +78,7 @@ A structural component that provides stability and support to the printer's moti
 ## Y-Axis Base :
 It is an essential component that provides structural support and stability to the printer's motion system. It plays a crucial role in enabling 
 
-## Z-axis Assembly:
+## Z-AXIS ASSEMBLY:
 ![Screenshot (3)](https://github.com/jayasridodda/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/123259278/4d9d6f54-37b1-46c9-ab13-439c1f021be8)
 ## Z-Axis Rod :
 It serves as a guiding and support element for the motion of the print head or the build plate along the X-axis. It plays a crucial role in ensuring smooth, controlled
