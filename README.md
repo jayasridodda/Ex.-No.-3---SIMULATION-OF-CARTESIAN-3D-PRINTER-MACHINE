@@ -107,6 +107,9 @@ spool holder in 3D printing is crucial for proper filament management, tension c
 ## Spool:
 spool refers to the cylindrical container that holds the filament, which is the material used for printing. The spool plays a crucial role in the 3D printing process
 
+## PLAYING WITH AXES:
+
+![Screenshot (9)](https://github.com/jayasridodda/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/123259278/8873716a-5d31-4740-8cb1-fe0ba983198d)
 
 
 
@@ -115,9 +118,8 @@ spool refers to the cylindrical container that holds the filament, which is the 
 
 
 
-
-### Name: 
-### Register Number:
+### Name: JAYASRI DODDA
+### Register Number: 212222240028
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
